@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Baekjoon_23_2/Baekjoon_23_2.vcxproj
+/Baekjoon_23_2/Baekjoon_23_2.vcxproj.filters
